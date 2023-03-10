@@ -12,4 +12,4 @@ StayFocus 是一款免费的 Chrome 扩展，用于替代收费版的 BlockSite�
 
 ### License
 
-This project is licensed under the [Apache 2.0 license](https://github.com/ZuoFuhong/ChatGPT-IM/blob/master/LICENSE).
+This project is licensed under the [Apache 2.0 license](https://github.com/ZuoFuhong/StayFocus/blob/master/LICENSE).
