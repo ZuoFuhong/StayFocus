@@ -1,0 +1,26 @@
+{
+    "name": "StayFocus：阻止网站并保持专注",
+    "short_name": "StayFocus",
+    "version": "0.1.0",
+    "manifest_version": 3,
+    "description": "使用我们的主要功能保持专注并提高生产力：自定义阻止网站列表",
+    "icons": {
+        "16": "static/img/bs-logo.png",
+        "48": "static/img/bs-logo.png",
+        "128": "static/img/bs-logo.png"
+    },
+    "action": {
+        "default_icon": "static/img/bs-logo.png",
+        "default_title": "StayFocus：阻止网站并保持专注",
+        "default_popup": "popup.html"
+    },
+    "background": {
+        "service_worker": "background.js",
+        "type": "module"
+    },
+    "permissions": [
+        "tabs",
+        "storage",
+        "webNavigation"
+    ]
+}
