@@ -4,11 +4,13 @@ StayFocus 是一款免费的 Chrome 扩展，用于替代收费版的 BlockSite�
 
 ![架构设计](./docs/StayFocus.png)
 
-**Features：**
+### 功能特性
 
-- 支持自定义网页阻止列表
-- 使用 chrome.storage API 存储，随 Google 账号同步
-- 即将发布 chrome 应用商店-免费使用
+功能简洁，无操作界面，用最简单的代码做好最实用的一件事 ”阻塞站点”，保持专注并提高生产力
+
+- 支持自定义站点阻止列表
+- 使用 chrome.storage API 存储阻塞站点，数据随 Google 账号同步
+- 免费使用，即将发布 chrome 应用商店，敬请期待
 
 ### License
 
